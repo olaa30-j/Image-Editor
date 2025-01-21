@@ -21,17 +21,17 @@ Convert images to perfectly formatted A4 PDFs with text overlay capabilities.
 ## Installation
 
 1. Clone repo:
-```bash
-git clone https://github.com/yourusername/image-to-pdf-converter.git
-cd image-to-pdf-converter
+    ```bash
+    git clone https://github.com/olaa30-j/Image-Editor.git
+    cd image-to-pdf-converter
 
 2. Install dependencies:
-```bash
-npm install
+    ```bash
+    npm install
 
 3. Start dev server:
-```bash
-npm run dev
+    ```bash
+    npm run dev
 
 ## Usage
 
